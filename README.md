@@ -1,2 +1,11 @@
-# Codsoft-Task-
-This project is a Python-based implementation of the classic Rock-Paper-Scissors game. It allows users to play against the computer, keeps track of scores, and provides an interactive experience using loops, conditionals, and the random module.
+Task 2: Rock-Paper-Scissors Game
+
+A fun Python game where the user plays Rock-Paper-Scissors against the computer with score tracking and replay options.
+
+🔹 Task 3: Password Generator
+
+A Python program that generates strong, random, and secure passwords of user-defined length using letters, digits, and special characters.
+
+🔹 Task 4: Calculator
+
+A simple Python calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division with error handling.
